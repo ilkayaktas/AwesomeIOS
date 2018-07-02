@@ -62,6 +62,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 - **[spruce-ios](https://github.com/willowtreeapps/spruce-ios)** : Swift library for choreographing animations on the screen. 
 - **[swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)** : Algorithms and data structures in Swift, with explanations! 
 - **[SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)** : Convenient logging during development & release in Swift 2, 3 & 4 
+- **[SwiftLint](https://github.com/realm/SwiftLint)** : A tool to enforce Swift style and conventions. [https://realm.io](https://realm.io)
 - **[swift-summary](https://github.com/jakarmy/swift-summary)** : A summary of Apple's Swift language written on Playgrounds 
 - **[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)** : A handy collection of more than 500 native Swift extensions to boost your productivity. [https://swifterswift.com](https://swifterswift.com)
 - **[swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)** : Swift UI libraries, components and animations by [@Ramotion](https://github.com/Ramotion) 
