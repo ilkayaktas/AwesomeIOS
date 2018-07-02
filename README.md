@@ -6,6 +6,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 
 - **[awesome-ios](https://github.com/vsouza/awesome-ios)** : A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - **[awesome-swift](https://github.com/matteocrippa/awesome-swift)** : A collaborative list of awesome Swift libraries and resources. Feel free to contribute! 
+- **[Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)** : A List of Awesome Swift Playgrounds
 
 #### B
 
@@ -62,6 +63,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 - **[swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)** : Algorithms and data structures in Swift, with explanations! 
 - **[SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)** : Convenient logging during development & release in Swift 2, 3 & 4 
 - **[swift-summary](https://github.com/jakarmy/swift-summary)** : A summary of Apple's Swift language written on Playgrounds 
+- **[SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)** : A handy collection of more than 500 native Swift extensions to boost your productivity. [https://swifterswift.com](https://swifterswift.com)
 - **[swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)** : Swift UI libraries, components and animations by [@Ramotion](https://github.com/Ramotion) 
 - **[SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)** : Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ 
 
