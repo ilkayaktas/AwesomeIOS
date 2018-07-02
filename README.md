@@ -2,60 +2,60 @@
 
 This repository lists my favorite iOS and Swift libraries and resources. 
 
-#### A
+### A
 
 - **[awesome-ios](https://github.com/vsouza/awesome-ios)** : A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - **[awesome-swift](https://github.com/matteocrippa/awesome-swift)** : A collaborative list of awesome Swift libraries and resources. Feel free to contribute! 
 - **[Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)** : A List of Awesome Swift Playgrounds
 
-#### B
+### B
 
 - **[BulletinBoard](https://github.com/alexaubry/BulletinBoard)** : General-purpose contextual cards for iOS 
 
-#### C
+### C
 
 - **[Chameleon](https://github.com/viccalexander/Chameleon)** : Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more). 
 
-#### D
+### D
 
 - **[Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)** : Design Patterns implemented in Swift by Ray Wenderlich
 - **[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)** : A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display 
 
-#### F
+### F
 
 - **[folding-cell](https://github.com/Ramotion/folding-cell)** : FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by [@Ramotion](https://github.com/Ramotion) 
 
-#### H
+### H
 
 - **[Hero](https://github.com/HeroTransitions/Hero)** : Elegant transition library for iOS & tvOS 
 
-#### I
+### I
 
 - **[iOS-11-Swift-Programming-Cookbook](https://github.com/vandadnp/iOS-11-Swift-Programming-Cookbook)** : O'Reilly's iOS 11 Swift Programming Cookbook Sample Codes 
 - **[iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture)** : This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc. 
 
-#### K
+### K
 
 - **[Kingfisher](https://github.com/onevcat/Kingfisher)** : A lightweight, pure-Swift library for downloading and caching images from the web. 
 
-#### M
+### M
 
 - **[Macaw](https://github.com/exyte/Macaw)** : Powerful and easy-to-use vector graphics Swift library with SVG support 
 
-#### P
+### P
 
 - **[Peek](https://github.com/shaps80/Peek)** : All new design. Inspect your iOS application at runtime. 
 - **[PromiseKit](https://github.com/mxcl/PromiseKit)** : Promises for Swift & ObjC 
 
-#### R
+### R
 
 - **[R.swift](https://github.com/mac-cain13/R.swift)** : Get strong typed, autocompleted resources like images, fonts and segues in Swift projects 
 
-#### O
+### O
 
 - **[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps)** : Collaborative List of Open-Source iOS Apps 
 
-#### S
+### S
 
 - **[Segmentio](https://github.com/Yalantis/Segmentio)** : Animated top/bottom segmented control written in Swift. 
 - **[SnapKit](https://github.com/SnapKit/SnapKit)** : A Swift Autolayout DSL for iOS & OS X 
@@ -68,7 +68,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 - **[swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)** : Swift UI libraries, components and animations by [@Ramotion](https://github.com/Ramotion) 
 - **[SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)** : Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ 
 
-#### V
+### V
 
 - **[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)** : ViewAnimator brings your UI to life with just one line 
 
