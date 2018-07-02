@@ -23,6 +23,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 
 ### F
 
+- **[fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture)** : Better ways to structure iOS apps
 - **[folding-cell](https://github.com/Ramotion/folding-cell)** : FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by [@Ramotion](https://github.com/Ramotion) 
 
 ### H
