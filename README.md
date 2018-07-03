@@ -73,3 +73,6 @@ This repository lists my favorite iOS and Swift libraries and resources.
 
 - **[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator)** : ViewAnimator brings your UI to life with just one line 
 
+### Y
+
+- **[YPImagePicker](https://github.com/Yummypets/YPImagePicker)** : Instagram-like image picker & filters for iOS
