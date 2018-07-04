@@ -38,6 +38,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 ### K
 
 - **[Kingfisher](https://github.com/onevcat/Kingfisher)** : A lightweight, pure-Swift library for downloading and caching images from the web. 
+-- **[Koloda](https://github.com/Yalantis/Koloda)** : KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. [https://yalantis.com](https://yalantis.com)
 
 ### M
 
