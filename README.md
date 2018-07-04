@@ -14,6 +14,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 
 ### C
 
+- **[CardSlider](https://github.com/saoudrizwan/CardSlider)** : Innovative twist to Tinder cards for iOS.
 - **[Chameleon](https://github.com/viccalexander/Chameleon)** : Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more). 
 
 ### D
