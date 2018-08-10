@@ -7,6 +7,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 - **[awesome-ios](https://github.com/vsouza/awesome-ios)** : A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - **[awesome-swift](https://github.com/matteocrippa/awesome-swift)** : A collaborative list of awesome Swift libraries and resources. Feel free to contribute! 
 - **[Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)** : A List of Awesome Swift Playgrounds
+- **[awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)** : A curated list of awesome iOS UI/UX libraries
 
 ### B
 
@@ -22,10 +23,16 @@ This repository lists my favorite iOS and Swift libraries and resources.
 - **[Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)** : Design Patterns implemented in Swift by Ray Wenderlich
 - **[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet)** : A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display 
 
+### E
+- **[Eureka](https://github.com/xmartlabs/Eureka)** : Elegant iOS form builder in Swift [https://eurekacommunity.github.io](https://eurekacommunity.github.io)
+
 ### F
 
 - **[fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture)** : Better ways to structure iOS apps
 - **[folding-cell](https://github.com/Ramotion/folding-cell)** : FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by [@Ramotion](https://github.com/Ramotion) 
+
+### G
+- **[GPUImage](https://github.com/BradLarson/GPUImage)** : An open source iOS framework for GPU-based image and video processing
 
 ### H
 
@@ -33,6 +40,8 @@ This repository lists my favorite iOS and Swift libraries and resources.
 
 ### I
 
+- **[IGListKit](https://github.com/Instagram/IGListKit)** : 
+A data-driven UICollectionView framework for building fast and flexible lists. [https://instagram.github.io/IGListKit/](https://instagram.github.io/IGListKit/)
 - **[iOS-11-Swift-Programming-Cookbook](https://github.com/vandadnp/iOS-11-Swift-Programming-Cookbook)** : O'Reilly's iOS 11 Swift Programming Cookbook Sample Codes 
 - **[iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture)** : This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc. 
 
@@ -48,6 +57,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 ### P
 
 - **[Peek](https://github.com/shaps80/Peek)** : All new design. Inspect your iOS application at runtime. 
+- **[PopupDialog](https://github.com/Orderella/PopupDialog)** : A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertController alert style.
 - **[PromiseKit](https://github.com/mxcl/PromiseKit)** : Promises for Swift & ObjC 
 
 ### R
@@ -78,3 +88,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 ### Y
 
 - **[YPImagePicker](https://github.com/Yummypets/YPImagePicker)** : Instagram-like image picker & filters for iOS
+
+### Z
+- **[ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift)** : 
+A simple view for building card like interface inspired by Tinder and Potluck.
