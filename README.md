@@ -30,6 +30,7 @@ This repository lists my favorite iOS and Swift libraries and resources.
 
 - **[fantastic-ios-architecture](https://github.com/onmyway133/fantastic-ios-architecture)** : Better ways to structure iOS apps
 - **[folding-cell](https://github.com/Ramotion/folding-cell)** : FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by [@Ramotion](https://github.com/Ramotion) 
+- **[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS)** : Folding Tab Bar and Tab Bar Controller
 
 ### G
 - **[GPUImage](https://github.com/BradLarson/GPUImage)** : An open source iOS framework for GPU-based image and video processing
@@ -45,6 +46,8 @@ A data-driven UICollectionView framework for building fast and flexible lists. [
 - **[iOS-11-Swift-Programming-Cookbook](https://github.com/vandadnp/iOS-11-Swift-Programming-Cookbook)** : O'Reilly's iOS 11 Swift Programming Cookbook Sample Codes 
 - **[iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture)** : This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc. 
 
+### J
+- **[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)** : UITextField subclass with floating labels - inspired by Matt D. Smith's design: [http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users](http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users)
 ### K
 
 - **[Kingfisher](https://github.com/onevcat/Kingfisher)** : A lightweight, pure-Swift library for downloading and caching images from the web. 
